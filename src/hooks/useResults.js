@@ -17,12 +17,13 @@ export default () => {
       setResults(response.data.businesses);
     } catch (e) {
       setErrorMessage("Something went wrong");
+      console.log("ERROR");
       console.log(e);
     }
   };
 
   useEffect(() => {
-    searchApi("Burger King");
+    searchApi("Pizza");
   }, []);
 
   return [searchApi, results, errorMessage];
