@@ -9,4 +9,4 @@ This App was created using React Native to search for restaurants using Yelp API
   (Make sure you have nodejs, react native, and expo-cli installed before running this command. You can use this [link](https://reactnative.dev/docs/environment-setup) to install those.)
   
   ###### Sample Output
-  ![alt text](https://github.com/VennilaPugazhenthi/Food/blob/main/assets/sampleAppScreen.jpeg)
+  <img src="https://github.com/VennilaPugazhenthi/Food/blob/main/assets/sampleAppScreen.jpeg" width=300 height= 600>
